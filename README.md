@@ -1,17 +1,19 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Mi primera página</title>
-</head>
-<body style="text-align:center; font-family: Arial; background-color:#e6f0ff;">
+# Hola 👋
 
-    <h1>Hola 👋</h1>
-    <p>Esta es mi página web en GitHub</p>
+## 🌸 Sobre mí
+- Me gusta el K-pop
+- Aprendiendo HTML
+- Fan de Stray Kids 💖
 
-    <button onclick="alert('¡Sí funciona 🎉!')">
-        Haz clic aquí
-    </button>
+## 🌐 Mis redes sociales
 
-</body>
-</html>
+- Instagram: https://instagram.com/tuusuario
+- TikTok: https://tiktok.com/@tuusuario
+- YouTube: https://youtube.com/@tuusuario
+
+## 💻 Lenguajes
+- HTML
+- CSS
+- JavaScript
+
+✨ Gracias por visitar mi perfil ✨
