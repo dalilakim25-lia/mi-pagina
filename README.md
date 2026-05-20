@@ -11,13 +11,10 @@
 # 🌐 Redes Sociales
 
 📸 Instagram  
-https://instagram.com/tuusuario
+https://instagram.com/_beagg_
 
 🎵 TikTok  
-https://tiktok.com/@tuusuario
-
-▶ YouTube  
-https://youtube.com/@tuusuario
+(Próximamente ✨)
 
 ---
 
@@ -25,7 +22,6 @@ https://youtube.com/@tuusuario
 
 ⭐ HTML  
 ⭐ CSS  
-⭐ JavaScript  
 ⭐ GitHub  
 
 ---
